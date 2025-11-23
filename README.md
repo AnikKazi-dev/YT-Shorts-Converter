@@ -2,7 +2,7 @@
 
 A powerful desktop application built with Electron and React that automatically converts landscape videos into portrait mode (9:16) suitable for YouTube Shorts, Instagram Reels, and TikTok. It adds a blurred background to fill the empty space, ensuring a professional look.
 
-![App Screenshot](https://via.placeholder.com/800x600?text=App+Screenshot+Placeholder)
+![App Screenshot](./screenshot.png)
 
 ## Features
 
