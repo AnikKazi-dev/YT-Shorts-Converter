@@ -32,6 +32,9 @@ A powerful desktop application built with Electron and React that automatically 
     npm run dev
     ```
 
+    **Alternatively (Windows):**
+    Simply double-click the `run.bat` file in the project folder to start the application.
+
 4.  **Build for Production**
     To create an installer for your system:
     ```bash
